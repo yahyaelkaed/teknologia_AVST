@@ -1,7 +1,7 @@
 # VOICE‑TO‑SIGN (AVST)
 
 ## Bridging Communication Through Inclusive AI
-
+#MaraTechEsprit2026-Teknologia
 ---
 
 ## 📌 Project Overview
